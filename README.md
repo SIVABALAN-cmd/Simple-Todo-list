@@ -12,7 +12,7 @@ A basic and responsive To-Do List web application built using **HTML**, **CSS**,
 ## 🖥️ Demo
 
 > [Add a link here if you have it hosted (e.g., GitHub Pages)]  
-> Example: https://yourusername.github.io/simple-todo-list/
+> Example:https://sivabalan-cmd.github.io/Simple-Todo-list/
 
 ## 📸 Screenshot
 
